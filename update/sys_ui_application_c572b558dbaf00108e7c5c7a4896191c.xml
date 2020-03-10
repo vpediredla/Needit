@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Needit</name>
+        <order/>
+        <roles>x_458782_needit_vi.needit_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 13:36:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c572b558dbaf00108e7c5c7a4896191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt -Vijaya" source="x_458782_needit_vi">d71fa1d0dbaf00108e7c5c7a48961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt -Vijaya">d71fa1d0dbaf00108e7c5c7a48961939</sys_scope>
+        <sys_update_name>sys_ui_application_c572b558dbaf00108e7c5c7a4896191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 13:36:45</sys_updated_on>
+    </sys_ui_application>
+</record_update>

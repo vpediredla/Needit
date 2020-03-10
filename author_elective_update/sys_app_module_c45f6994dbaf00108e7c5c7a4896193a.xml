@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt -Vijaya">bb4f6594dbaf00108e7c5c7a4896198e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sc_task</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 13:23:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c45f6994dbaf00108e7c5c7a4896193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt -Vijaya" source="x_458782_needit_vi">d71fa1d0dbaf00108e7c5c7a48961939</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt -Vijaya">d71fa1d0dbaf00108e7c5c7a48961939</sys_scope>
+        <sys_update_name>sys_app_module_c45f6994dbaf00108e7c5c7a4896193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 13:23:02</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt -Vijaya">d71fa1d0dbaf00108e7c5c7a48961939</application>
+        <file_path/>
+        <instance_id>525b7887db4dfbc40b9d21c4059619c1</instance_id>
+        <instance_name>dev84513</instance_name>
+        <name>sys_app_module_c45f6994dbaf00108e7c5c7a4896193a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt -Vijaya">bb4f6594dbaf00108e7c5c7a4896198e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sc_task</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-10 13:23:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c45f6994dbaf00108e7c5c7a4896193a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="NeedIt -Vijaya" source="x_458782_needit_vi">d71fa1d0dbaf00108e7c5c7a48961939</sys_package><sys_policy/><sys_scope display_value="NeedIt -Vijaya">d71fa1d0dbaf00108e7c5c7a48961939</sys_scope><sys_update_name>sys_app_module_c45f6994dbaf00108e7c5c7a4896193a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-10 13:23:02</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-152432268</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>d71f6594dbaf00108e7c5c7a48961989</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 13:23:02</sys_created_on>
+        <sys_id>cc5f6994dbaf00108e7c5c7a4896193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170c49ce7c40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 13:23:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>085f6994bcaf0010c0e15949a5ce0d3b</update_guid>
+        <update_guid_history>085f6994bcaf0010c0e15949a5ce0d3b:-152432268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">5eb3fd98dbaf00108e7c5c7a4896192c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 13:42:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0209f2cdb6014ba08fe0956f898aa049</sys_id>
+        <sys_metadata>c45f6994dbaf00108e7c5c7a4896193a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedIt -Vijaya" source="x_458782_needit_vi">d71fa1d0dbaf00108e7c5c7a48961939</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt -Vijaya">d71fa1d0dbaf00108e7c5c7a48961939</sys_scope>
+        <sys_scope_delete display_value="">5b4c7bf343b046d4800da472f6464b19</sys_scope_delete>
+        <sys_update_name>sys_app_module_c45f6994dbaf00108e7c5c7a4896193a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c45f6994dbaf00108e7c5c7a4896193a">cc5f6994dbaf00108e7c5c7a4896193b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 13:42:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
